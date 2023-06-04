@@ -1,7 +1,7 @@
 # Netflix-Clone
 <div> 
- Este projeto foi feito e usado unicamente para fins de estudo <br>
- This project was made and used solely for study purposes
+ Este projeto foi feito e usado unicamente para fins de estudo. <br>
+ This project was made and used solely for study purposes. <br>
 </div> 
 <div> 
   <img height="430" width="195" src="https://media.discordapp.net/attachments/1108011461999079467/1115001041793073262/Captura_de_Tela_2023-06-04_as_16.35.41.png?width=440&height=936" >
